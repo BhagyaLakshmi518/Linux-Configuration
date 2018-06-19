@@ -1,4 +1,5 @@
 Project 6 Linux-Server-Configuration
+ssh port 2200
 #### Details
   Server Ip Address:13.232.93.198
   site url: http://13.232.93.198.xip.io
