@@ -68,8 +68,9 @@ dBgzOXfMti5k2bi40Rbnob/cv7QLi4EY+J0Nj/UPG089J85AR/D1N69rJ2UWaOGN
        then we have to add this port 2200 in the lightsail networkings tab for firewall safety
        Login into grader using the below command:
               ssh -i .ssh/id_rsa -p 2200 grader@ipaddress
-        Then run the following command:
+        Then run the following command to disable ssh root as login:
               sudo nano /etc/ssh/sshd_config
+              make change of PermitRootLogin to 'no'
          Firewall safety commands:
                 sudo ufw allow 2200/tcp
                 sudo ufw allow 80/tcp
