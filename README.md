@@ -5,6 +5,9 @@ ssh port 2200
   site url: http://13.232.93.198.xip.io
 #### grader password:
       12345
+#### to update to latest versions:
+      sudo apt-get update
+      sudo apt-get upgrade
 #### grader key:
       -----BEGIN RSA PRIVATE KEY-----
 MIIEowIBAAKCAQEAp3W1jNTDSN7xAA4tdAU4LGGupW8IBvlDZmV0W8Pmcdj/m+BM
