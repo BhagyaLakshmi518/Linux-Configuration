@@ -3,6 +3,35 @@ ssh port 2200
 #### Details
   Server Ip Address:13.232.93.198
   site url: http://13.232.93.198.xip.io
+#### grader key:
+      -----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEAp3W1jNTDSN7xAA4tdAU4LGGupW8IBvlDZmV0W8Pmcdj/m+BM
+KkVbX62XZFP5cvKFZaLnphI9dGdZ0bR+8X59ZDrhWJpmS5EcGVUAdEWe9NG/9uHF
+yo41VlLT0JBejkx5eUd9FR1uVk4vmmaaXfxf4jDt6rxOThR6IxeVVIvPLfIekXGc
+F/+zE83cc5nzYLAzmxuq6iLLqRZDIi5/4QOhT2fxJQXbZsZchHxizSvSXZnNfvfl
+9L2/I/gf3PF9VwugOwOTgbLRTmADpJo3McH4D3GWBdpuxRGlXzO0OxOU+W4DpYWg
+w5jAty+E2J1HhFMH8Hu74r1ffm/zmz9JnLFaAwIDAQABAoIBAESeqFlgKfGnYWwb
+YybCqMUO9gjWWZy58ZN5CVg9CyYlvIA8RhmgOBQZxwqWmoYuuNjwCypzGPmlDBox
+cz80DN/QfNzY0AgxGymKOlhq2vsJJDdfRrR814BbCm7Rad23mqNG1wua9sao3TrQ
+xnqy2vuN/0AMD65RF8dfd5Kgg7IYdhUKnRSMFWsW/z0MGTdF1a5EkC+18aiwoMJV
+IoSLZUT9QIGMgEuN6+DbPccPOI/yJlaiiSU7YSH72hsqgcWXgziklfmoY1B8iPlx
+enimjlisYKk8n4j+HWct3j3BxNHTP0BfLrwyQUU0KDrhm7/gOdOreDNOG8He0+fj
+wujlqykCgYEA0tQH82lHKdgDsTg0XL3mAw49ovtRnH5ThNf3WtBP89s9BcV8tYIe
+Zmpe1jhNI4cbA890a3Abp8M9QjF2uyg2o3PPnE9MTmX0zN9HdqoL7eoKzw6HN+EJ
+txq84tYztj0S5oBfUVblx1ZuIp53sgkd4OkaDlCE6uFua7yZk4z5MucCgYEAy1bp
+KEQsLWJzRoEsPMIfi7DyN4RzRjrllLpSGFeY4gq4xTwfLLyz3Q/RqbrFk9b5gj/x
+wTIQz1OQwlvKQImgxOpI+rFrfNinN75LGSAl2TGRW0KVM6c+k+n3xZ/wWLhBmBno
+D5SmkVMNiT53dq007S+Ac2LIcixS/VWDbv+h2IUCgYBz6MyiP4w3biLBiTQIlQLj
+RS4P7/ozfqRuUcoVbJe4ax2Gkcf5hpsuFWckgXmvgbURiDnqY41g049XWBh91yML
+BD3tIw/Bvn4zMMJ6dAzw9Y6RvdwLlbagq5uTXs65b6R3g7Zj4tGboWIVuGf4Qtjh
+cWa43f3loKDzrJIGtCfBmwKBgQC0GPA9p9PxBqfPJI3H6rACC+Ec5wUqiPPavQQF
+Z2CTpKdumgeKmkA8ZcxvpmtkvB0WDgjT8sIMv5kRbDdA3iU1A8VLtWTcmQ/SQYtG
+X8DmFA8IY3q+2zyDydCYi0ZXbis6yodNdX3qbUMp8dfhlxuvkEkW6cFbzoJauyjE
+YUo5+QKBgHfRpJU/XhU6KGHV9Fv0zcY4XBlmhOBYLAlRcx7w4Vv3blXQJVyW2Z1u
+dBgzOXfMti5k2bi40Rbnob/cv7QLi4EY+J0Nj/UPG089J85AR/D1N69rJ2UWaOGN
+/6BNXPac85KCafF798WFBmacCCl46RNjNi93aMRCdy2XHmx0FuEJ
+-----END RSA PRIVATE KEY-----
+
 #### Steps to connect to grader:
       we have to creater a new user called grader with the following command:
              sudo adduser grader
